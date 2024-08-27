@@ -1,0 +1,1 @@
+IMG (file format), a file extension of several image formats that stores full data that will represent (images) from stored media data. IMG is an abbreviation for the camera file name generally used in design rules for camera file systems.
