@@ -13,7 +13,7 @@
   ],
   "tokens": [
     {
-      "name": "Softwareploit Token",
+      "name": "Softwareploit",
       "symbol": "SFTPROJECT",
       "address": "0xCf0f488Ce25C1d67873De21017108f4A185eEE5E",
       "chainId": 56,
@@ -21,7 +21,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xCf0f488Ce25C1d67873De21017108f4A185eEE5E.png"
     },
     {
-      "name": "8PAY Network v2",
+      "name": "8PAYv2",
       "symbol": "8PAYv2",
       "address": "0x6EaDc05928ACd93eFB3FA0DFbC644D96C6Aa1Df8",
       "chainId": 56,
@@ -37,7 +37,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xc27A719105A987b4c34116223CAE8bd8F4B5def4.png"
     },
     {
-      "name": "Alchemy Token",
+      "name": "Alchemy",
       "symbol": "ACH",
       "address": "0xBc7d6B50616989655AfD682fb42743507003056D",
       "chainId": 56,
@@ -45,7 +45,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xBc7d6B50616989655AfD682fb42743507003056D.png"
     },
     {
-      "name": "Cardano Token",
+      "name": "Cardano",
       "symbol": "ADA",
       "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
       "chainId": 56,
@@ -53,7 +53,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
     },
     {
-      "name": "AdEx Network",
+      "name": "AdEx",
       "symbol": "ADX",
       "address": "0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819",
       "chainId": 56,
@@ -69,7 +69,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x2598c30330D5771AE9F983979209486aE26dE875.png"
     },
     {
-      "name": "AIOZ Network",
+      "name": "AIOZ",
       "symbol": "AIOZ",
       "address": "0x33d08D8C7a168333a85285a68C0042b39fC3741D",
       "chainId": 56,
@@ -277,7 +277,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xC3CAC4AE38cCf6985EF9039ACC1abBc874DdcBB0.png"
     },
     {
-      "name": "Axelar Wrapped USDC",
+      "name": "AxelarUSDC",
       "symbol": "axlUSDC",
       "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
       "chainId": 56,
@@ -285,7 +285,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3.png"
     },
     {
-      "name": "Axie Infinity Shard",
+      "name": "AxieShard",
       "symbol": "AXS",
       "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
       "chainId": 56,
@@ -317,7 +317,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x72fAa679E1008Ad8382959FF48E392042A8b06f7.png"
     },
     {
-      "name": "BAND Protocol Token",
+      "name": "BANDProtocol",
       "symbol": "BAND",
       "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
       "chainId": 56,
@@ -325,7 +325,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18.png"
     },
     {
-      "name": "Basic Attention Token",
+      "name": "BasicAttention",
       "symbol": "BAT",
       "address": "0x101d82428437127bF1608F699CD651e6Abf9766E",
       "chainId": 56,
@@ -365,7 +365,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x045c4324039dA91c52C55DF5D785385Aab073DcF.png"
     },
     {
-      "name": "Bitcoin Cash Token",
+      "name": "BitcoinCash",
       "symbol": "BCH",
       "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
       "chainId": 56,
@@ -477,7 +477,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x4131b87F74415190425ccD873048C708F8005823.png"
     },
     {
-      "name": "Liquid Staking BNB",
+      "name": "Liquid BNB",
       "symbol": "BNBx",
       "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
       "chainId": 56,
@@ -549,7 +549,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830.png"
     },
     {
-      "name": "BSC Ecosystem Defi blue chips",
+      "name": "BSC Ecosystem",
       "symbol": "BSCDEFI",
       "address": "0x40E46dE174dfB776BB89E04dF1C47d8a66855EB3",
       "chainId": 56,
@@ -581,7 +581,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1.png"
     },
     {
-      "name": "Binance Pegged Bitcoin",
+      "name": "BinanceBitcoin",
       "symbol": "BTCB",
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
       "chainId": 56,
@@ -589,7 +589,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
     },
     {
-      "name": "Standard BTC Hashrate Token",
+      "name": "StandardBTC",
       "symbol": "BTCST",
       "address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
       "chainId": 56,
@@ -805,7 +805,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x810EE35443639348aDbbC467b33310d2AB43c168.png"
     },
     {
-      "name": "Binance Pegged DAI",
+      "name": "Binance DAI",
       "symbol": "DAI",
       "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "chainId": 56,
@@ -1085,7 +1085,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xD44FD09d74cd13838F137B590497595d6b3FEeA4.png"
     },
     {
-      "name": "Binance Pegged ETH",
+      "name": "BinancePeggedETH",
       "symbol": "ETH",
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "chainId": 56,
@@ -1093,7 +1093,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
     },
     {
-      "name": "EURA (previously agEUR)",
+      "name": "EURA",
       "symbol": "EURA",
       "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
       "chainId": 56,
@@ -2533,7 +2533,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x143D7A700a533B4baF6D693449b278A8A2F5927d.png"
     },
     {
-      "name": "Stader (Wormhole)",
+      "name": "StaderWormhole",
       "symbol": "SD",
       "address": "0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8",
       "chainId": 56,
@@ -2541,7 +2541,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8.png"
     },
     {
-      "name": "Singularity Dao",
+      "name": "SingularityDao",
       "symbol": "SDAO",
       "address": "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
       "chainId": 56,
@@ -2549,7 +2549,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240.png"
     },
     {
-      "name": "Stake DAO CAKE",
+      "name": "StakeDAOCAKE",
       "symbol": "sdCAKE",
       "address": "0x6a1c1447F97B27dA23dC52802F5f1435b5aC821A",
       "chainId": 56,
@@ -2557,7 +2557,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x6a1c1447F97B27dA23dC52802F5f1435b5aC821A.png"
     },
     {
-      "name": "Stake DAO Token",
+      "name": "StakeDAO",
       "symbol": "SDT",
       "address": "0x07715EE7219B07b8e01CC7d2787f4e5e75860383",
       "chainId": 56,
@@ -2565,7 +2565,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x07715EE7219B07b8e01CC7d2787f4e5e75860383.png"
     },
     {
-      "name": "SafePal Token",
+      "name": "SafePalToken",
       "symbol": "SFP",
       "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
       "chainId": 56,
@@ -2581,7 +2581,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x477bC8d23c634C154061869478bce96BE6045D12.png"
     },
     {
-      "name": "Sheesha Finance",
+      "name": "SheeshaFinance",
       "symbol": "SHEESHA",
       "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
       "chainId": 56,
@@ -2589,7 +2589,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x232FB065D9d24c34708eeDbF03724f2e95ABE768.png"
     },
     {
-      "name": "Meta Apes Shell",
+      "name": "MetaApesShell",
       "symbol": "SHELL",
       "address": "0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272",
       "chainId": 56,
@@ -2605,7 +2605,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xF98b660AdF2ed7d9d9D9dAACC2fb0CAce4F21835.png"
     },
     {
-      "name": "CryptoBlades Skill Token",
+      "name": "CryptoBlades",
       "symbol": "SKILL",
       "address": "0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab",
       "chainId": 56,
@@ -2613,7 +2613,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab.png"
     },
     {
-      "name": "Staked Lista BNB",
+      "name": "StakedLisBNB",
       "symbol": "slisBNB",
       "address": "0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B",
       "chainId": 56,
@@ -2637,7 +2637,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x4aae823a6a0b376De6A78e74eCC5b079d38cBCf7.png"
     },
     {
-      "name": "SolvBTC Babylon",
+      "name": "SolvBTCBabylon",
       "symbol": "SolvBTCBBN",
       "address": "0x1346b618dC92810EC74163e4c27004c921D446a5",
       "chainId": 56,
@@ -2653,7 +2653,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x53E63a31fD1077f949204b94F431bCaB98F72BCE.png"
     },
     {
-      "name": "SPARTAN PROTOCOL TOKEN",
+      "name": "SPARTANPROTOCOL",
       "symbol": "SPARTA",
       "address": "0x3910db0600eA925F63C36DdB1351aB6E2c6eb102",
       "chainId": 56,
@@ -2677,7 +2677,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x1633b7157e7638C4d6593436111Bf125Ee74703F.png"
     },
     {
-      "name": "Token SQUAD",
+      "name": "TokenSQUAD",
       "symbol": "SQUAD",
       "address": "0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd",
       "chainId": 56,
@@ -2685,7 +2685,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd.png"
     },
     {
-      "name": "Lorenzo stBTC",
+      "name": "LorenzostBTC",
       "symbol": "stBTC",
       "address": "0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3",
       "chainId": 56,
@@ -2701,7 +2701,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b.png"
     },
     {
-      "name": "Staked BNB",
+      "name": "StakedBNB",
       "symbol": "stkBNB",
       "address": "0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16",
       "chainId": 56,
@@ -2709,7 +2709,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16.png"
     },
     {
-      "name": "StakeStone Ether",
+      "name": "StakeStone",
       "symbol": "STONE",
       "address": "0x80137510979822322193FC997d400D5A6C747bf7",
       "chainId": 56,
@@ -2773,7 +2773,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A.png"
     },
     {
-      "name": "Tau Bitcoin",
+      "name": "TauBitcoin",
       "symbol": "tBTC",
       "address": "0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c",
       "chainId": 56,
@@ -2781,7 +2781,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c.png"
     },
     {
-      "name": "Tau DOGE",
+      "name": "TauDOGE",
       "symbol": "tDOGE",
       "address": "0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
       "chainId": 56,
@@ -2837,7 +2837,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x9f589e3eabe42ebC94A44727b3f3531C0c877809.png"
     },
     {
-      "name": "Alien Worlds",
+      "name": "AlienWorlds",
       "symbol": "TLM",
       "address": "0x2222227E22102Fe3322098e4CBfE18cFebD57c95",
       "chainId": 56,
@@ -2869,7 +2869,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x7af173F350D916358AF3e218Bdf2178494Beb748.png"
     },
     {
-      "name": "Trivian Token",
+      "name": "Trivian",
       "symbol": "TRIVIA",
       "address": "0xb465f3cb6Aba6eE375E12918387DE1eaC2301B05",
       "chainId": 56,
@@ -2917,7 +2917,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9.png"
     },
     {
-      "name": "True USD Old",
+      "name": "TrueUSDOld",
       "symbol": "TUSDOLD",
       "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
       "chainId": 56,
@@ -2925,7 +2925,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x14016E85a25aeb13065688cAFB43044C2ef86784.png"
     },
     {
-      "name": "Trust Wallet",
+      "name": "TrustWallet",
       "symbol": "TWT",
       "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
       "chainId": 56,
@@ -2965,7 +2965,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1.png"
     },
     {
-      "name": "unshETH Ether",
+      "name": "unshETH",
       "symbol": "unshETH",
       "address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
       "chainId": 56,
@@ -2973,7 +2973,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef.png"
     },
     {
-      "name": "Uniwhale Token",
+      "name": "Uniwhale",
       "symbol": "UNW",
       "address": "0x5b65cd9feb54F1Df3D0C60576003344079f8Dc06",
       "chainId": 56,
@@ -2981,7 +2981,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x5b65cd9feb54F1Df3D0C60576003344079f8Dc06.png"
     },
     {
-      "name": "Binance Pegged USD Coin",
+      "name": "Binanceusdc",
       "symbol": "USDC",
       "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
       "chainId": 56,
@@ -2989,7 +2989,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
     },
     {
-      "name": "Binance Pegged USDT",
+      "name": "BinanceUSDT",
       "symbol": "USDT",
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "chainId": 56,
@@ -3069,7 +3069,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21.png"
     },
     {
-      "name": "Wrapped Binance Beacon ETH",
+      "name": "WrappedETH",
       "symbol": "wBETH",
       "address": "0xa2E3356610840701BDf5611a53974510Ae27E2e1",
       "chainId": 56,
@@ -3197,7 +3197,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xFa40d8FC324bcdD6Bbae0e086De886c571C225d4.png"
     },
     {
-      "name": "Governance xAlgo",
+      "name": "xAlgo",
       "symbol": "xALGO",
       "address": "0x0034719300501B06E10Ebb1D07ea5967301F0941",
       "chainId": 56,
@@ -3317,7 +3317,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e.png"
     },
     {
-      "name": "YFII.finance Token",
+      "name": "YFIIfinance",
       "symbol": "YFII",
       "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
       "chainId": 56,
@@ -3341,7 +3341,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb.png"
     },
     {
-      "name": "ZeroSwapToken",
+      "name": "ZeroSwap",
       "symbol": "ZEE",
       "address": "0x44754455564474A89358B2C2265883DF993b12F0",
       "chainId": 56,
@@ -3357,7 +3357,7 @@
       "logoURI": "https://token.softwareploit.top/token/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
     },
     {
-      "name": "ZOO Crypto World",
+      "name": "ZOOCrypto",
       "symbol": "ZOO",
       "address": "0x1D229B958D5DDFca92146585a8711aECbE56F095",
       "chainId": 56,
